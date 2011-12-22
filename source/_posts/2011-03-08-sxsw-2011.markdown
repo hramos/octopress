@@ -1,0 +1,11 @@
+--- 
+name: sxsw-2011
+layout: post
+title: SXSW 2011
+time: 2011-03-08 23:32:00 -04:00
+---
+So I’m leaving in a few hours for SXSW. I’ve been looking forward to visiting Austin again, seeing friends and meeting in person everyone I’ve been interacting with online.
+
+Let me know if you’re going to be in Austin this weekend for SXSW!
+
+PS: I’ve been working on a new blog based on Jekyll. It’s almost done, but I don’t think it would be prudent to deploy it just before leaving for this trip. So that explains the lack of blogging - I keep telling myself I should wait until the new site is up!
