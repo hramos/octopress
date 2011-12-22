@@ -8,7 +8,7 @@ A nifty feature introduced in iOS 4.0 was Over The Air binary deployments. You c
 
 Creating these OTA deployments used to be very tedious. I&#8217;ve been learning Rails this past week, and really liked the way Heroku allows you to git push to their servers to deploy. Last night, I wrote up some scripts to simulate this as close as possible. I&#8217;ll first go through the basics of OTA deployments, the meaty automation action is at the last section.
 
-<!--more-->
+<!-- more -->
 ## Over The Air Deployment Basics ##
 Feel free to skip this section if you&#8217;ve been doing OTA deployments already. Automation details are further down the page.
 

@@ -13,6 +13,8 @@ Want to brew a great cup of coffee without making too much of a mess? Buy [this]
 
 We will be using the inverted Aeropress method. Why? I don't know. Some people prefer this over the normal method, since it keeps the paper filter away from the coffee until its needed. Some people like to run some water over the paper filter beforehand (they say doing this will keep your coffee from having a paper-filtery-taste, which I've never noticed anyway), and doing this with the regular method will result in coffee leaking out prematurely. I prefer it because its less messy and its all self-contained. Lets begin.
 
+<!-- more -->
+
 There's two main parts to an Aeropress: the cylinder that holds the grounds and water, and the plunger. Normally you'd mix everything in the main cylinder, and then use the plunger. Instead, grab the plunger and push it in just one centimeter or so. Place the Aeropress upside down, with the plunger holding up the main cylinder. Leave the filter off for now.
 
 <a href="http://c185824.r24.cf1.rackcdn.com/IMG_1114.jpg">

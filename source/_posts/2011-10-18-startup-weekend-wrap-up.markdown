@@ -13,7 +13,7 @@ This [past](https://gowalla.com/stories/58EEE "Gowalla Story for Startup Weekend
 
 Over [50 passionate designers, developers, business development and creatives](http://www.sellingbytes.com/2011/10/19/startup-weekend-puerto-rico-2011/) met on Friday night and pitched dozens of ideas. Every one got to pick their top three ideas and quickly assembled into seven teams. Their goal: have a fully developed business model and a prototype ready by Sunday evening, where each would pitch a panel of angel investors and venture capitalists and take a chance at winning thousands of dollars in prizes and in-kind services.
 
-<!--more-->
+<!-- more -->
 
 ![Ramphis addresses the crowd. Photo by Héctor.](http://c185824.r24.cf1.rackcdn.com/9358258_high_res_320x480.jpg =480x320)
  

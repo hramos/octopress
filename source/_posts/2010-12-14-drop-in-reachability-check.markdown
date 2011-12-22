@@ -6,7 +6,7 @@ time: 2010-12-14 15:15:00 -04:00
 ---
 
 Every iOS application that requires an Internet connection should make use of the Apple [Reachability](http://developer.apple.com/library/ios/#samplecode/Reachability/Introduction/Intro.html) classes. These allow you to easily check if there is a WAN connection available and/or if a specific host can be reached.
-<!--more-->
+<!-- more -->
 You never know when your application will run in Airport mode or in a dead area with no cell connection at all. Furthermore, the user might not have 3G service but might be connected through a Wi-Fi hotspot. Perhaps in a future OS update, an additional WAN connection might become available through Bluetooth or a completely new protocol. For these reasons, I can&#8217;t advise you to create your own Reachability code, when Apple&#8217;s will suffice: you only care if there is access to a WAN, or at the very least, if Host X is reachable (who cares about the pathway to it?).
 
 In iPhone OS 2, the Reachability classes were kind of obscure, hidden away in the Apple Sample Code and with no easy way of dropping them in to a project. By default they were synchronous and would need some modification to work properly asynchronously - I don&#8217;t really remember the details, I just remember I had to do this a couple of times and it was very annoying. So I was very happy to find [this answer in Stack Overflow](http://stackoverflow.com/questions/1083701/how-to-check-for-an-active-internet-connection-on-iphone-sdk/3597085#3597085) which provides a step by step to use the updated Reachability classes along with NSNotifications to asynchronously determine reachability.

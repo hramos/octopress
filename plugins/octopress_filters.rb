@@ -36,7 +36,7 @@ end
 module OctopressLiquidFilters
   include Octopress::Date
 
-  # Used on the blog index to split posts on the <!--more--> marker
+  # Used on the blog index to split posts on the <!-- more --> marker
   def excerpt(input)
     if input.index(/<!--\s*more\s*-->/i)
       input.split(/<!--\s*more\s*-->/i)[0]

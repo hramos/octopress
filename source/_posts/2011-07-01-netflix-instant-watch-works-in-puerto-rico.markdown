@@ -9,7 +9,7 @@ time: 2011-07-01 10:00:00 -04:00
 
 The time is finally here: Netflix Watch Instantly, the video streaming service, is now available in Puerto Rico. One of the very first posts in this website was regarding the [unavailability of Netflix in Puerto Rico][netflix-blocking], as you may remember. We can now put that issue to rest, as Netflix sent out an email to all of its Puerto Rico customers, announcing the fact that Watch Instantly is now available again.
 
-<!--more-->
+<!-- more -->
 
 Many thanks to [Edgar Rodriguez][netflix-email] for letting us know about the email. No longer being a Netflix customer, as I had cancelled my service in 2009 when they blocked Watch Instantly in Puerto Rico, I didn't receive the email. I don't know what led to Netflix reenabling Watch Instantly - I had already given up on them. I know many people cancelled their accounts, but many more just used proxies, VPNs and other workarounds, judging by all the comments and emails I have received over the last two years. Personally, I believe that any company that makes it hard for me to use the service I am paying for, does not deserve my money. So I cancelled my service instead of jumping through hoops to get it working.
 

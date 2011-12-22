@@ -9,7 +9,7 @@ The startup community in Puerto Rico is still very, very young. It's almost non-
 
 It's time to kickstart this community. It won't happen quickly. We won't be able to compete with Silicon Valley. But maybe we can plant the seed, share our vision with others. Eventually the idea will take hold, and people will realize that working for a big company is not the only way of making a living. We need more entrepreneurs in this island, and we believe that technology startups hold the key for improving our economy. 
 
-<!--more-->
+<!-- more -->
 
 Initial costs have gone down so much in the last decade, it's very inexpensive to get started. Look around and you'll notice many business models being disrupted. Digital distribution has forever changed the face of the movie and recording industry. [Netflix](http://www.netflix.com) and [iTunes](http://www.apple.com/itunes), [Hulu](http://www.hulu.com). [Zipcar](http://www.zipcar.com), [Uber](http://www.uber.com) and [Getaround](http://www.getaround.com) are threatening the transportation industry. Even Facebook, with its complete dominance of the social networking space, has enough blind spots that companies such as [Twitter](http://www.twitter.com) and [Path](http://www.path.com), and Google's [Google+](http://plus.google.com), can exist and be sustained by a significant chunk of users.
 
