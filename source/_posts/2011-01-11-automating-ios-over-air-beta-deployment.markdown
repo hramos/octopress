@@ -3,6 +3,8 @@ name: automating-ios-over-air-beta-deployment
 layout: post
 title: Automating iOS Over The Air Beta Deployment
 time: 2011-01-11 10:22:00 -04:00
+comments: true
+keywords: "xcode, xcode provisioning, xcode ad hoc, testflight, beta testing iOS apps"
 ---
 A nifty feature introduced in iOS 4.0 was Over The Air binary deployments. You can use these to distribute your Ad Hoc beta app without having your users deal with iTunes and mobile provisioning profiles. It&#8217;s a great time saver and much friendlier to use than the previous tethered method.
 
@@ -14,17 +16,17 @@ Feel free to skip this section if you&#8217;ve been doing OTA deployments alread
 
 The way this works is through the use of a manifest file and a specially formatted iTunes URL. An example manifest is as follows:
 
-<script src="https://gist.github.com/774468.js?file=manifest.plist"></script>
+{% gist 774468 manifest.plist %}
 
 This is a standard ASCII plist &#8212; you may use the OS X Property List Editor, or launch your favorite text editor and copy/paste this into a new file. Change the ${###} values to whatever matches your application; use your own Info.plist as a guide for the bundle id, display name and version number, and choose a URL that matches the final public URL where your app will be available to beta testers. For example, you might own the http://google.com domain, so you&#8217;d decide to host future betas of the Google +1 iOS apps at http://beta.google.com/plusone/GooglePlusOne.ipa. This must be a directory that is open to the Internet, as your iOS device must be able to download the IPA file.
 
 The manifest and IPA files are linked to from any web page of your own choosing. Just use the following URL format when doing so:
 
-<script src="https://gist.github.com/774499.js?file=_manifest-link.html"></script>
+{% gist 774499 _manifest-link.html %}
 
 Here&#8217;s a full HTML file that you may use if you don&#8217;t have a mobile formatted web page just yet:
 
-<script src="https://gist.github.com/774481.js?file=index.html"></script>
+{% gist 774481 index.html %}
 
 Just replace the Google +1 dummy data with your own.
 
@@ -73,7 +75,7 @@ Well, you need to do two things: automate your Xcode build, and then automate th
 
 The first part is taken care of by the following script:
 
-<script src="https://gist.github.com/774017.js?file=buildandarchive.sh"></script>
+{% gist 774017 buildandarchive.sh %}
 
 Change all the variables to match your own development environment. The end result, if successful, is the IPA file you need and love.
 
@@ -81,7 +83,7 @@ You may now create a simple script that scp&#8217;s the IPA to its final locatio
 
 However, thanks to Testflight, you can just call this script once the Xcode build has been successful. It will [upload the IPA to Testflight](http://testflightapp.com/api/doc/) and automatically email your team members.
 
-<script src="https://gist.github.com/773985.js?file=upload-testflight.sh"></script>
+{% gist 773985 upload-testflight.sh %}
 
 The team token determines which of your teams, within your Testflight configured apps, receives this deployment.
 

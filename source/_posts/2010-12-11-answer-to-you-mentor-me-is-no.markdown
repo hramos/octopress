@@ -3,6 +3,7 @@ name: answer-to-you-mentor-me-is-no
 layout: post
 title: The answer to "Will you mentor me?" is no
 time: 2010-12-11 19:25:00 -04:00
+comments: true
 ---
 [The answer to &#8220;Will you mentor me?&#8221; is no](http://pindancing.blogspot.com/2010/12/answer-to-will-you-mentor-me-is.html)
 

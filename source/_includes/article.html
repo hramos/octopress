@@ -1,10 +1,18 @@
 {% unless page.no_header %}
+
+{% capture description %}{% if post.description %}{{ post.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+
   <header>
     {% if index %}
       <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
     {% else %}
       <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
     {% endif %}
+	<iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
+	 style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
+	 src="http://www.instapaper.com/e2?url={{ site.url | escape }}{{ post.url | escape }}&title={{ post.title | escape }}&description={{ description | strip_html | condense_spaces | truncate:150 | escape }}"
+	></iframe>
+
     {% unless page.meta == false %}
       <p class="meta">
         {% include post/date.html %}{{ time }}

@@ -3,6 +3,7 @@ name: proper-use-of-iphone-touch-keyboard
 layout: post
 title: Proper use of the iPhone touch keyboard
 time: 2009-05-11 12:54:00 -04:00
+comments: true
 ---
 
 By far, the iPhone keyboard is the top reason given by my Puertorrican friends who have switched over to a Blackberry from an iPhone. I understand that this may be due mostly to our biling&uuml;al nature, which is a problem when most of what we write every day is a [mixture of english and spanish](http://en.wikipedia.org/wiki/Spanglish "Spanglish"). Add to this the fact that most people are trying to touch type they same they would on a physical keyboard, and the result is utter frustration when it comes to typing on the small onscreen keyboard.

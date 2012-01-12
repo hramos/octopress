@@ -3,9 +3,11 @@ name: startup-weekend-wrap-up
 layout: post
 title: Startup Weekend Wrap-up
 time: 2011-10-18 17:30:00 -04:00
+comments: true
+keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneurship in puerto rico, puerto rico entrepreneurs, starting a company in puerto rico, negocios puerto rico, startups, negocio, barcamp san juan, barcampsj, tedx san juan, tedxsanjuan, startup weekend puerto rico, startup weekend"
 ---
 
-<p style="text-align: center;"><span class="full-image-block ssNonEditable"><span><img src="http://c185824.r24.cf1.rackcdn.com/swpr.jpg" alt=""/></span></span></p>
+{% img http://c185824.r24.cf1.rackcdn.com/swpr.jpg %}
 
 This [past](https://gowalla.com/stories/58EEE "Gowalla Story for Startup Weekend") [weekend](https://gowalla.com/stories/58b3L "Gowalla Story for Startup Weekend"), Puerto Rico had its first official [Startup Weekend](http://puertorico.startupweekend.org/ "Startup Weekend Puerto Rico") event. The premise was simple: launch a startup in 54 hours.
 

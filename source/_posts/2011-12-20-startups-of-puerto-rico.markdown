@@ -3,7 +3,11 @@ name: startups-of-puerto-rico
 layout: post
 title: Startups of Puerto Rico
 time: 2011-12-20 12:15:00 -04:00
+comments: true
+keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneurship in puerto rico, puerto rico entrepreneurs, starting a company in puerto rico, negocios puerto rico, startups, negocio, barcamp san juan, barcampsj, tedx san juan, tedxsanjuan"
 ---
+
+{% img http://c185824.r24.cf1.rackcdn.com/sopr_sshot.png %}
 
 The startup community in Puerto Rico is still very, very young. It's almost non-existent. I've met a few people here and there over the last few years, and we generally keep in touch, but it feels like we're all alone in this island. Local higher education institutions don't do much about promoting startups, leading graduates instead towards the big companies, local or out of state. Who can blame them, though? A cushy job at a big company is a safe bet.
 

@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://hectorramos.com
-title: hectorramos.com
+title: Héctor Ramos
 subtitle: 
-author: Hecotr Ramos
+author: Hector Ramos
 simple_search: http://google.com/search
-description:
+description: Computer engineer and iOS (iPhone) developer at Polsense. Indie developer of the Wonders of Puerto Rico app and IVU Loto App. Member of Startups of Puerto Rico. Java programmer in a previous life, now Rails helps me keep my sanity.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,10 +16,10 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/HectorRamos
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: hi@hectorramos.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -37,16 +37,17 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+recent_posts: 3       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
-titlecase: true       # Converts page and post titles to tilecase
+titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, custom/asides/about.html, asides/twitter.html, asides/googleplus.html]
+# removed these: , asides/delicious.html, asides/pinboard.html,  asides/github.html
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -59,7 +60,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: hramos
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -78,8 +79,8 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: true
+googleplus_user: 100561410026987401417
+googleplus_hidden: false
 
 # Pinboard
 pinboard_user:

@@ -3,6 +3,7 @@ name: may-update
 layout: post
 title: May Update
 time: 2011-05-21 14:07:00 -04:00
+comments: true
 ---
 
 Two big releases this week. Liberty Cablevision has launched their new iPhone app, which was [developed in partnership with Polsense](http://blog.polsense.com/liberty-cable-iphone-application "Liberty Cable iPhone Application"). I'm really proud of what we've done with this app, from start to finish.

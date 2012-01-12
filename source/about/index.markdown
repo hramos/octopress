@@ -1,16 +1,18 @@
 ---
 layout: page
 title: "about"
-date: 2011-12-22 10:04
-comments: true
-sharing: true
-footer: true
+date: 2012-01-12 14:00
+comments: false
+sharing: false
+footer: false
 ---
 
-![alt text](http://c185824.r24.cf1.rackcdn.com/5492_563216064549_121800083_33763858_1821907_n.jpg "Héctor")
+{% img http://c185824.r24.cf1.rackcdn.com/hector_about.png 315 233 %}
 
-I'm Héctor Ramos, an iOS developer for [Polsense](http://polsense.com), an up and coming startup in sunny Puerto Rico. I graduated with a B.Sc. in Computer Engineering from [UPR Mayagüez](http://www.uprm.edu) in 2006. Worked at EVERTEC as a system architect and senior programmer for the Internet department which served [BPPR](http://www.bppr.com), Puerto Rico's largest bank.
+I'm [H&eacute;ctor](http://about.me/hramos) and I work at [Polsense](http://polsense.com), a mobile app incubator based in San Juan, Puerto Rico. We pride ourselves in making great, custom built apps.
 
-Work didn't keep me from tinkering with various technologies, which got me into freelance iPhone development. Shortly before hitting my fourth anniversary at EVERTEC, I quit in order to pursue iOS app development and startups full time, joining Polsense.
+I live in Puerto Rico right now. Went to college and got a B.Sc. in Computer Engineering from [UPR Mayagüez](http://www.uprm.edu), worked at [EVERTEC](http://www.evertecinc.com) for a few years as a System Architect, but then in 2008 I decided to take up Objective-C and seek a career in iPhone app development. By 2010 I was able to quit and pursue this career full-time with Polsense. Some day I'll move to San Francisco. Prepare to hear that a lot from me - I've been saying it since my first visit in 2009, but I'm still here.
 
+I'm doing my part to help move forward the startup scene in Puerto Rico. Check out [Startups of Puerto Rico](http://www.startupsofpuertorico.com). Also helped organize [TEDxSanJuan 2011](http://www.tedxsanjuan.com). 
 
+If you're looking to get in touch with me with regards to iOS development services, you should contact us at [info@polsense.com](mailto:info@polsense.com) instead. Let me know if you're in Puerto Rico any time soon, otherwise, see you when WWDC comes around.

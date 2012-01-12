@@ -3,6 +3,8 @@ name: sxsw-2011
 layout: post
 title: SXSW 2011
 time: 2011-03-08 23:32:00 -04:00
+comments: true
+keywords: "sxsw, sxsw puerto rico, sxsw 2011, south by southwest"
 ---
 So I’m leaving in a few hours for SXSW. I’ve been looking forward to visiting Austin again, seeing friends and meeting in person everyone I’ve been interacting with online.
 

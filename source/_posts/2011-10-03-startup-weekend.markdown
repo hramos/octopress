@@ -3,9 +3,11 @@ name: startup-weekend
 layout: post
 title: Startup Weekend
 time: 2011-10-02 10:00:00 -04:00
+comments: true
+keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneurship in puerto rico, puerto rico entrepreneurs, starting a company in puerto rico, negocios puerto rico, startups, negocio, barcamp san juan, barcampsj, tedx san juan, tedxsanjuan, startup weekend puerto rico, startup weekend"
 ---
 
-<p style="text-align: center;"><span class="full-image-block ssNonEditable"><span><img src="http://c185824.r24.cf1.rackcdn.com/swpr.jpg" alt=""/></span></span></p>
+{% img http://c185824.r24.cf1.rackcdn.com/swpr.jpg %}
 
 If you're in Puerto Rico for the weekend of October the 14th, be sure to check out [Startup Weekend Puerto Rico](http://puertorico.startupweekend.org/ "Startup Weekend Puerto Rico"). You'll have just 54 hours to build a business by teaming up with entrepreneurial people from various backgrounds.
 

@@ -2,9 +2,9 @@
 layout: page
 title: "apps"
 date: 2011-12-22 10:04
-comments: true
-sharing: true
-footer: true
+comments: false
+sharing: false
+footer: false
 ---
 
 
@@ -22,6 +22,39 @@ Track your IVU Loto receipts and get an alert if one of your receipts comes up a
 
 ---
 
+
+## Wonders of Puerto Rico ##
+
+[![alt text](http://c185824.r24.cf1.rackcdn.com/buynow.png "Wonders of Puerto Rico")](http://itunes.apple.com/app/wonders-of-puerto-rico/id414703689?mt=8)
+
+Wonders of Puerto Rico was developed by H&eacute;ctor Ramos for [EyeTour.com](http://eyetour.com/wonders/).
+
+[![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](http://itunes.apple.com/app/wonders-of-puerto-rico/id414703689?mt=8
+)
+
+
+---
+
+## MiLiberty ##
+
+[![alt text](http://c185824.r24.cf1.rackcdn.com/icon-liberty-app.jpg "myLiberty")](http://itunes.apple.com/us/app/miliberty/id424282417?mt=8&ls=1)
+
+The [Liberty iPhone app](http://www.libertypr.com/iphone/) was developed by [Polsense](http://www.polsense.com) for Liberty.
+
+[![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](http://itunes.apple.com/us/app/miliberty/id424282417?mt=8&ls=1
+)
+
+
+---
+
+## Heineken Cheers ##
+
+{% img http://c185824.r24.cf1.rackcdn.com/lp_cheers.jpg %}
+
+[Heineken Cheers](http://www.heinekencheers.com) was developed by [Polsense](http://www.polsense.com) in 2009.
+
+---
+
 ## Buzzes ##
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/buzzes-header-logo.png "Buzzes")](http://itunes.apple.com/us/app/buzzes/385480943?mt=8#)
@@ -32,7 +65,7 @@ Follow your friends on the go.
 
 See thumbnails with each post, and browse full-screen photos from popular sites.
 
-RETIRED
+Status: RETIRED
 
 ---
 
@@ -48,6 +81,7 @@ The decibel meter goes up and down as you speak into the COM:LINK. It works just
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=322502765&mt=8)
 
+Status: INACTIVE
 
 ---
 
@@ -64,6 +98,7 @@ Can’t send an e-mail with your picture due to lack of signal? No Wi-Fi means y
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=320375566&mt=8&s=143441)
 
+Status: INACTIVE
 
 ---
 
@@ -83,4 +118,5 @@ Sure, but you only have a link to YouTube. You need to know the name of the vide
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=320588383&mt=8&s=143441)
 
+Status: INACTIVE
 
