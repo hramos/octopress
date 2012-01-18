@@ -12,9 +12,7 @@ footer: false
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/mzl.xswdmhms.175x175-75.jpg "IVU Loto")](http://itunes.apple.com/us/app/ivu-loto-results-tracker/id466263373?mt=8)
 
-IVU Loto results delivered straight to your iPhone.
-
-Track your IVU Loto receipts and get an alert if one of your receipts comes up as a winner.
+Get IVU Loto results delivered straight to your iPhone with the [IVU Loto App](http://www,ivulotoapp.com). Track your IVU Loto receipts and get an alert if one of your receipts comes up as a winner.
 
 [![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](http://itunes.apple.com/us/app/ivu-loto-results-tracker/id466263373?mt=8
 )
