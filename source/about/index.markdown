@@ -7,7 +7,7 @@ sharing: false
 footer: false
 ---
 
-{% img http://c185824.r24.cf1.rackcdn.com/hector_about.png 315 233 %}
+{% img left http://c185824.r24.cf1.rackcdn.com/barcamp_mugshot.png %}
 
 I'm [H&eacute;ctor](http://about.me/hramos) and I work at [Polsense](http://polsense.com), a mobile app incubator based in San Juan, Puerto Rico. We pride ourselves in making great, custom built apps.
 
