@@ -4,6 +4,7 @@ layout: post
 title: Advisers, stop being nice
 time: 2011-10-21 11:30:00 -04:00
 comments: true
+categories: startups
 ---
 
 {% blockquote Jason Freedman, SV StartupDigest http://www.humbledmba.com/advice-to-advisers-stop-being-so-nice Advice to advisers: Stop being so nice. %}

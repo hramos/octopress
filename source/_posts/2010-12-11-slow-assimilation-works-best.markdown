@@ -4,6 +4,7 @@ layout: post
 title: Slow Assimilation Works Best
 time: 2010-12-11 19:30:00 -04:00
 comments: true
+categories: startups
 ---
 Lots of cheering going on in Puerto Rico (I&#8217;m part of the problem) but are getting enough [done](http://www.teamten.com/lawrence/writings/plan05.html)?
 

@@ -5,6 +5,7 @@ title: Automating iOS Over The Air Beta Deployment
 time: 2011-01-11 10:22:00 -04:00
 comments: true
 keywords: "xcode, xcode provisioning, xcode ad hoc, testflight, beta testing iOS apps"
+categories: code
 ---
 A nifty feature introduced in iOS 4.0 was Over The Air binary deployments. You can use these to distribute your Ad Hoc beta app without having your users deal with iTunes and mobile provisioning profiles. It&#8217;s a great time saver and much friendlier to use than the previous tethered method.
 

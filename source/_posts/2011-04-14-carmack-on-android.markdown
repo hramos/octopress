@@ -4,6 +4,7 @@ layout: post
 title: John Carmack on Android
 time: 2011-03-27 14:12:00 -04:00
 comments: true
+categories: code
 ---
 
 {% blockquote John Carmack, NowGamer http://www.nowgamer.com/features/921554/rage_john_carmack_interview.html Rage: John Carmack Interview %}

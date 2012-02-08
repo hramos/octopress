@@ -5,6 +5,7 @@ title: Startup Weekend
 time: 2011-10-02 10:00:00 -04:00
 comments: true
 keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneurship in puerto rico, puerto rico entrepreneurs, starting a company in puerto rico, negocios puerto rico, startups, negocio, barcamp san juan, barcampsj, tedx san juan, tedxsanjuan, startup weekend puerto rico, startup weekend"
+categories: startups
 ---
 
 {% img http://c185824.r24.cf1.rackcdn.com/swpr.jpg %}

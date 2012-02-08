@@ -5,6 +5,7 @@ title: TEDx San Juan
 time: 2011-12-08 19:15:00 -04:00
 comments: false
 keywords: "tedx san juan, tedxsanjuan, ted, museo de arte de puerto rico"
+categories: tedxsanjuan
 ---
 
 Quick heads up: tomorrow, the city of San Juan will be hosting Puerto Rico's first [TEDx](http://www.ted.com/tedx) event. We've been working behind the scenes for seven months, from picking out the venue, to holding speaker nominations and going through attendee applications. It's kind of hard to believe that the day is already upon us. [TEDx San Juan](http://www.tedxsanjuan.com/) is taking place tomorrow, December 9th, 2011.

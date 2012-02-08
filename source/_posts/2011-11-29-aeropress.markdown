@@ -5,6 +5,7 @@ title: The secret to a great cup of coffee at work
 time: 2011-11-29 1:15:00 -04:00
 comments: true
 keywords: "aeropress, coffee at work, brewing coffee at work, office coffee"
+categories: coffee
 ---
 
 Want to brew a great cup of coffee without making too much of a mess? Buy [this]("https://www.amazon.com/dp/B001HBCVX0/ref=as_li_ss_til?tag=hectorrcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=B001HBCVX0&adid=0JEH9MMZEWRMM2NRNNCK&"). It's called an Aeropress. Now buy some quality coffee beans. You got a [grinder]("https://www.amazon.com/dp/B0000AR7SY/ref=as_li_ss_til?tag=hectorrcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=B0000AR7SY&adid=1H4CE8WR1R1FX9A0Y77J&"), right? I won't judge you if you won't. Just ask your barista to grind your beans one step above espresso grind. You want a fine grind, but not too fine to clog the paper filter.

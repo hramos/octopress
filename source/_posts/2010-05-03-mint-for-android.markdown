@@ -4,6 +4,7 @@ layout: post
 title: Mint for Android
 time: 2010-05-03 11:11:00 -04:00
 comments: true
+categories: mint
 ---
 {% blockquote Leena Rao http://techcrunch.com/2010/05/03/mint-com-debuts-android-app/ Mint.com debuts Android app %}
 Personal finance site Mint.com has debuted its Android app today, which lets Mint.com users access a complete snapshot of their financial picture and manage their finances on the go. Mint.com, a TechCrunch40 company that was acquired by Intuit for $170 million last fall, initially announced the development of the free app last November.

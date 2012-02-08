@@ -5,14 +5,29 @@ date: 2012-01-12 14:00
 comments: false
 sharing: false
 footer: false
+sidebar: false
 ---
 
 {% img left http://c185824.r24.cf1.rackcdn.com/barcamp_mugshot.png %}
 
-I'm [H&eacute;ctor](http://about.me/hramos) and I work at [Polsense](http://polsense.com), a mobile app incubator based in San Juan, Puerto Rico. We pride ourselves in making great, custom built apps.
+[H&eacute;ctor](http://about.me/hramos) is a systems architect turned mobile app developer. He wrote software that handles [sensitive banking information](http://www.evertecinc.com), and later co-founded a [mobile app development company](http://polsense.com). H&eacute;ctor is a native iOS app developer, and a Java and Ruby backend developer.
 
-I live in Puerto Rico right now. Went to college and got a B.Sc. in Computer Engineering from [UPR Mayagüez](http://www.uprm.edu), worked at [EVERTEC](http://www.evertecinc.com) for a few years as a System Architect, but then in 2008 I decided to take up Objective-C and seek a career in iPhone app development. By 2010 I was able to quit and pursue this career full-time with Polsense. Some day I'll move to San Francisco. Prepare to hear that a lot from me - I've been saying it since my first visit in 2009, but I'm still here.
+H&eacute;ctor has been actively promoting startups in Puerto Rico, teaming up with a group of entrepreneurs to launch the [Startups of Puerto Rico](http://www.startupsofpuertorico.com) initiative which helps organize [Barcamps](http://barcampsj.org/), [Startup Weekends](http://puertorico.startupweekend.org/) and other [startup-oriented events](http://albedrio.com/albedrio/?p=1169665746). He also helped organize the first [TEDx event in Puerto Rico](http://www.tedxsanjuan.com).
 
-I'm doing my part to help move forward the startup scene in Puerto Rico. Check out [Startups of Puerto Rico](http://www.startupsofpuertorico.com). Also helped organize [TEDxSanJuan 2011](http://www.tedxsanjuan.com). 
+H&eacute;ctor is most at ease in front of an Xcode window (when it is not crashing on him), but he is also a skilled Java developer with a new-found love for Ruby. He is also quite comfortable with Unix, having administered a small Linux computer lab for the Physics Department at University of Puerto Rico Mayagüez.
 
-If you're looking to get in touch with me with regards to iOS development services, you should contact us at [info@polsense.com](mailto:info@polsense.com) instead. Let me know if you're in Puerto Rico any time soon, otherwise, see you when WWDC comes around.
+H&eacute;ctor graduated from the [University of Puerto Rico Mayagüez](http://www.uprm.edu) with a B.S. in Computer Engineering. He is an Engineer-in-Training and member of the San Juan Chapter and [Instituto de Ingenieros de Computadora](http://www.iicomciapr.org/) of the [Colegio of Ingenieros y Agrimensores de Puerto Rico](http://www.ciapr.org).
+
+
+<h2 class="entry-title">Employers</h2>
+
+* [Polsense](http://polsense.com)
+* [EVERTEC](http://www.evertecinc.com)
+* [Xerox](http://www.xerox.com)
+* [UPR Mayagüez](http://www.uprm.edu)
+
+<h2 class="entry-title">Languages</h2>
+
+* Objective-C
+* Java
+* Ruby
