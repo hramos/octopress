@@ -9,17 +9,23 @@ keywords: amazon, shipping, electronic exports information, puerto rico
 
 Amazon offers free Super Saver shipping on all orders over $25. For years, this benefit applied to all shipping within the United States, Puerto Rico included. Eventually, Amazon introduced the Amazon Prime program, where for a $79 annual fee, consumers could get free two day shipping on all orders, regardless of the total transaction amount. This, however, didn't apply to Puerto Rico. The reasoning for it is obvious: we are an island, and the only way to get two day shipping is by air. While Amazon could recoup costs by using ground shipping for all orders made within a given distance of one of their warehouses, this is just not possible for Puerto Rico (or Hawaii, for that matter).
 
-Puerto Ricans began to ask Amazon to give them Amazon Prime. Amazon, please think of us! And so Amazon did. And it didn't like what it found: a computer glitch was allowing us sneaky Puerto Ricans to benefit from free Super Saver shipping! And it was fixed.
+Puerto Ricans began to ask Amazon to give them Amazon Prime. Amazon, please think of us! And so Amazon did. And it didn't like what it found: [a computer glitch](http://newsismybusiness.com/amazon-slashes-free-shipping-option-to-p-r-other-u-s-territories/) was allowing us sneaky Puerto Ricans to benefit from free Super Saver shipping! And it was fixed.
 
-Now, a few months later, the Consumer Affairs Department, known as [Daco](http://www.daco.gobierno.pr/), is fining Amazon, as reported by News Is My Business:
+{% blockquote Michelle Kantrow, News Is My Business http://newsismybusiness.com/amazon-slashes-free-shipping-option-to-p-r-other-u-s-territories/ Amazon slashes free shipping option to P.R., other U.S. territories %}
+Fouts said those addresses slipped under the radar &#34;due to a bug in the system that was recently fixed.&#34;
 
-<!-- more -->
+&#34;I don’t know what the reason is for not offering the free shipping option to Puerto Rico or the territories, but that’s always been our policy,&#34; Fouts said, unable to confirm the exact date the &#34;bug&#34; was fixed.
+{% endblockquote %}
+
+Now, a few months later, the Consumer Affairs Department, known as [Daco](http://www.daco.gobierno.pr/), after initially [threatening to sue Amazon](http://newsismybusiness.com/daco-suing-amazon-for-discriminating-against-p-r-consumers/), is fining them:
 
 {% blockquote Michelle Kantrow, News Is My Business http://newsismybusiness.com/amazon-facing-500k-fine-for-nixing-free-shipping-to-p-r/ Amazon facing $500K fine for nixing free shipping to P.R. %}
 The Consumer Affairs Department has issued a fine against online retailer Amazon for failing to reasonably support its decision to take the &#34;Super Saver&#34; free shipping benefit away from Puerto Rico consumers, News is my Business learned Tuesday.
 
 The initial $340,000 fine lodged two weeks ago is currently hovering at about $500,000 and will increase by $10,000 a day as long as the case is open, agency Secretary Luis Rivera-Mar&iacute;n said.
 {% endblockquote %}
+
+<!-- more -->
 
 Okay. So we are now fining Amazon for not providing a free service on the basis that it discriminates against Puerto Rico consumers. Uh, guys, you might want to lay down the nationality card - Hawaii is also excluded from Amazon's Free Super Saver Shipping.
 
