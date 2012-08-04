@@ -5,9 +5,9 @@
 url: http://hectorramos.com
 title: Héctor Ramos
 subtitle: 
-author: Hector Ramos
+author: Héctor Ramos
 simple_search: http://google.com/search
-description: Computer engineer and iOS (iPhone) developer at Polsense. Indie developer of the Wonders of Puerto Rico app and IVU Loto App. Member of Startups of Puerto Rico. Java programmer in a previous life, now Rails helps me keep my sanity.
+description: Computer engineer and iOS developer. Solutions Architect at Parse. Indie developer of the Wonders of Puerto Rico app and IVU Loto App. Member of Startups of Puerto Rico. Java programmer in a previous life, now Rails helps me keep my sanity.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -80,7 +80,7 @@ google_plus_one_size: medium
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
 googleplus_user: 100561410026987401417
-googleplus_hidden: false
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
