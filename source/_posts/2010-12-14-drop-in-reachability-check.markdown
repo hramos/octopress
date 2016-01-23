@@ -5,6 +5,7 @@ title: Drop In Reachability Check
 time: 2010-12-14 15:15:00 -04:00
 comments: true
 keywords: "reachability, ios"
+categories: code
 ---
 
 Every iOS application that requires an Internet connection should make use of the Apple [Reachability](http://developer.apple.com/library/ios/#samplecode/Reachability/Introduction/Intro.html) classes. These allow you to easily check if there is a WAN connection available and/or if a specific host can be reached.

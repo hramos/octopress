@@ -4,6 +4,7 @@ layout: post
 title: Objectify. Give JSON, Receive Code.
 time: 2011-05-24 12:30:00 -04:00
 comments: true
+categories: code
 ---
 
 I've been testing [Objectify](http://tigerbears.com/objectify/) for the last few weeks, and I'm happy to see it [available now on the Mac App Store](http://itunes.apple.com/us/app/objectify/id435651677). 

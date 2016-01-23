@@ -4,6 +4,7 @@ layout: post
 title: Did I ever tell you about Ashton?
 time: 2010-12-11 03:33:00 -04:00
 comments: true
+categories: startups
 ---
 
 {% blockquote Joel Spolsky, Programmers Stack Exchange http://programmers.stackexchange.com/questions/25432/how-can-a-new-programmer-impress-the-software-engineer-boss Did I ever tell you about Ashton? %}

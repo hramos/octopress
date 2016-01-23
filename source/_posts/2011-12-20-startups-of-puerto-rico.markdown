@@ -5,6 +5,7 @@ title: Startups of Puerto Rico
 time: 2011-12-20 12:15:00 -04:00
 comments: true
 keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneurship in puerto rico, puerto rico entrepreneurs, starting a company in puerto rico, negocios puerto rico, startups, negocio, barcamp san juan, barcampsj, tedx san juan, tedxsanjuan"
+categories: startups
 ---
 
 {% img http://c185824.r24.cf1.rackcdn.com/sopr_sshot.png %}

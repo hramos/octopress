@@ -4,6 +4,7 @@ layout: post
 title: JavaScriptCore apps 
 time: 2011-04-28 12:02:00 -04:00
 comments: true
+categories: code
 ---
 
 {% blockquote PhobosLab http://www.phoboslab.org/log/2011/04/ios-and-javascript-for-real-this-time iOS and JavaScript - for Real this Time! %}
