@@ -9,6 +9,8 @@ keywords: amazon, shipping, electronic exports information, puerto rico
 
 Amazon offers free Super Saver shipping on all orders over $25. For years, this benefit applied to all shipping within the United States, Puerto Rico included. Eventually, Amazon introduced the Amazon Prime program, where for a $79 annual fee, consumers could get free two day shipping on all orders, regardless of the total transaction amount. This, however, didn't apply to Puerto Rico. The reasoning for it is obvious: we are an island, and the only way to get two day shipping is by air. While Amazon could recoup costs by using ground shipping for all orders made within a given distance of one of their warehouses, this is just not possible for Puerto Rico (or Hawaii, for that matter).
 
+<!-- more -->
+
 Puerto Ricans began to ask Amazon to give them Amazon Prime. Amazon, please think of us! And so Amazon did. And it didn't like what it found: [a computer glitch](http://newsismybusiness.com/amazon-slashes-free-shipping-option-to-p-r-other-u-s-territories/) was allowing us sneaky Puerto Ricans to benefit from free Super Saver shipping! And it was fixed.
 
 {% blockquote Michelle Kantrow, News Is My Business http://newsismybusiness.com/amazon-slashes-free-shipping-option-to-p-r-other-u-s-territories/ Amazon slashes free shipping option to P.R., other U.S. territories %}
@@ -24,8 +26,6 @@ The Consumer Affairs Department has issued a fine against online retailer Amazon
 
 The initial $340,000 fine lodged two weeks ago is currently hovering at about $500,000 and will increase by $10,000 a day as long as the case is open, agency Secretary Luis Rivera-Mar&iacute;n said.
 {% endblockquote %}
-
-<!-- more -->
 
 Okay. So we are now fining Amazon for not providing a free service on the basis that it discriminates against Puerto Rico consumers. Uh, guys, you might want to lay down the nationality card - Hawaii is also excluded from Amazon's Free Super Saver Shipping.
 
@@ -56,7 +56,7 @@ While we're on that topic, [other retailers](https://twitter.com/#!/fab/status/1
 Shipments going back and forth between one of the 50 U.S. states and Puerto Rico must be treated like any other "international export" under the EEI/SED requirements. On the other hand, cargo headed to American Samoa, Guam, Northern Mariana Islands, and most of the other U.S. territories are treated as "domestic" and do not need an EEI/SED.
 {% endblockquote %}
 
-See that? American Samoa, Guam and other U.S. territories are excluded from having to declare an EEI! Puerto Rico is specifically treated as an "international export". That's a federal government requirement. What's [Hon. Pedro Pierluisi](http://pierluisi.house.gov/english/home.html), our Resident Commissioner in Washington, D.C., doing about it? Oh, right, he's sending letters to retailers. Mr. Pierluisi, you might want to talk to your friends in Washington about that little EEI that is being [used as a pretty valid excuse](http://www.quora.com/Why-doesnt-Fab-ship-to-Puerto-Rico) not to include Puerto Rico as a domestic shipping location. 
+See that? American Samoa, Guam and other U.S. territories are excluded from having to declare an EEI! Puerto Rico is specifically treated as an "international export". That's a federal government requirement. What's [Hon. Pedro Pierluisi](http://pierluisi.house.gov/english/home.html), our Resident Commissioner in Washington, D.C., doing about it? Oh, right, he's sending letters to retailers. Mr. Pierluisi, you might want to talk to your friends in Washington about that little EEI that is being [used as a pretty valid excuse](http://www.quora.com/Why-doesnt-Fab-ship-to-Puerto-Rico) not to include Puerto Rico as a domestic shipping location.
 
 {% blockquote News Is My Business http://newsismybusiness.com/pierluisi-asks-15-e-retailers-to-explain-refusal-to-ship-to-p-r/ Pierluisi asks 15 e-retailers to explain refusal to ship to P.R. %}
 Resident Commissioner Pedro Pierluisi this week put the spotlight on some of the most popular online retailers, asking them to explain why they will not ship to Puerto Rico arguing among other things that the island must abide by the same federal trade and consumer protection laws as all of the 50 states.

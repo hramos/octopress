@@ -9,7 +9,7 @@ sidebar: false
 
 {% img left http://c185824.r24.cf1.rackcdn.com/barcamp_mugshot.png %}
 
-[H&eacute;ctor](http://about.me/hramos) worked as a systems architect for four years in the [financial technology industry](http://www.evertecinc.com/) before turning to [mobile app development](http://polsense.com). H&eacute;ctor is most at ease in front of an Xcode window, but he is also a skilled Java developer with a new-found love for Ruby. His favorite kind of app requires a hefty backend behind it.
+[H&eacute;ctor](http://about.me/hramos) worked as a systems architect for four years in the [financial technology industry](http://www.evertecinc.com/) before turning to [mobile app development](http://polsense.com). H&eacute;ctor is most at ease in front of an Xcode window, but he is also a skilled Java developer with a new-found love for Ruby. His favorite kind of app requires [a hefty backend](https://parse.com) behind it.
 
 H&eacute;ctor has been actively promoting startups, teaming up with a group of entrepreneurs to launch the Startups of Puerto Rico initiative which helped organize [Barcamps](http://barcampsj.org/), [Startup Weekends](http://puertorico.startupweekend.org/), and the first [TEDx conference to be held in Puerto Rico](http://www.tedxsanjuan.com).
 
