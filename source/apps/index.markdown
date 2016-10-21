@@ -7,6 +7,7 @@ sharing: false
 footer: false
 ---
 
+A collection of old apps I worked on from 2008 - 2011.
 
 ## IVU Loto ##
 
@@ -117,4 +118,3 @@ Sure, but you only have a link to YouTube. You need to know the name of the vide
 [![alt text](http://c185824.r24.cf1.rackcdn.com/app_store_badge.png "Download on the App Store")](itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=320588383&mt=8&s=143441)
 
 Status: INACTIVE
-

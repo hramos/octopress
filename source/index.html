@@ -2,28 +2,49 @@
 layout: default
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+<div>
+<article role="article">
+
+ <header>
+   <h1 class="entry-title">About</h1>
+ </header>
+
+<p>Hey there, I'm Héctor, a software engineer at Facebook. I am a mobile app developer at heart, and for the past four years I've worked as a developer advocate for Parse, the backend as a service for mobile that recently transitioned to an <a href="https://parseplatform.github.com">open source Parse Server</a>. I am now exploring new ways of building <a href="https://facebook.github.com/react-native/">native apps</a> with a focus on improving developer efficiency.</p>
+
+<p>I live in the San Francisco Bay Area with my wife and young son. We have been here for a few years now, but I was born and grew up in Puerto Rico, a colonial territory of the United States.</p>
+
+<p>After graduating from the <a href="http://www.uprm.edu">University of Puerto Rico Mayagüez</a> with a B.S. in Computer Engineering, I worked as a Systems Architect for several years at EVERTEC, a transaction processing business serving major financial institutions in Latin America. I quit my first job out of college to develop mobile applications full time, eventually building what is still the <a href="http://www.popular.com/en/mi-banco/mobile/">#1 mobile app</a> in Puerto Rico.</p>
+
+<h2 class="entry-title">Appearances</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=wAQsY0XdatQ">Ask Parse Anything - JavaScript and Cloud Code Tips</a> - Facebook, Menlo Park, CA</li>
+  <li><a href="https://www.youtube.com/watch?v=Mz5Fg-5kphw">Ask Parse Anything - July 2015</a> - Facebook, Menlo Park, CA</li>
+  <li><a href="https://www.youtube.com/watch?v=7mmnW2p6c2k">Ask Parse Anything - May 2015</a> - Facebook, Menlo Park, CA</li>
+  <li><a href="https://www.youtube.com/watch?v=lqplGpum-E4">The Next Level: Building Complex Apps on Parse</a> - Facebook F8 2015, San Francisco, CA</li>
+  <li><a href="http://www.zachstubenvoll.com/f8-app/">Facebook F8 2014 App</a></li>
+  <li><a href="https://www.youtube.com/watch?v=BMwVbLVqFXs">Getting Started With Parse</a> - Parse Developer Day 2013, San Francisco, CA</li>
+  <li>Getting Started with Parse - Facebook Mobile Developer Conference 2013, London, U.K.</li>
+</ul>
+
+
+<h2 class="entry-title">Employers</h2>
+
+<ul>
+<li><a href="http://facebook.com">Facebook</a> - Platform Services Engineer, Developer Infrastructure</li>
+<li><a href="http://parse.com">Parse</a> - Solutions Architect, Developer Advocacy</li>
+<li><a href="http://polsense.com">Polsense</a> - Principal Engineer</li>
+<li><a href="http://www.evertecinc.com">EVERTEC</a> - Systems Architect, Senior Engineer</li>
+<li><a href="http://www.xerox.com">Xerox</a> - Internship, Continuous Build Systems</li>
+<li><a href="http://www.uprm.edu">UPR Mayagüez</a> - Systems Administrator for the Physics Dept. Computer Lab and High Performance Cluster</li>
+</ul>
+
+<h2 class="entry-title">Elsewhere</h2>
+
+<ul>
+<li>Twitter: <a href="https://twitter.com/hectorramos">@hectorramos</a></li>
+<li>Instagram: <a href="https://www.instagram.com/hramos/">hramos</a></li>
+<li><a href="https://facebook.com/hramos">Facebook</a></li>
+</ul>
+
+</article>
